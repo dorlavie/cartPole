@@ -1,4 +1,4 @@
-# cart Pole 
+# Cart Pole 
 This is my first project with reinforcement learning.
 I am using Deep Q Learning (DQN) algorithm.
 
