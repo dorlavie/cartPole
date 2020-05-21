@@ -9,4 +9,6 @@ Tech stack:
 * OpenAI Gym
 
 This is the final result:
+
+
 ![](cartPole.gif)
